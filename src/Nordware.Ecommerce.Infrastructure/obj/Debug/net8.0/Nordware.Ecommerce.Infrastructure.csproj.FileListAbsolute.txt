@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\bin\Debug\net8.0\Nordware.Ecommerce.Infrastructure.deps.json
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\bin\Debug\net8.0\Nordware.Ecommerce.Infrastructure.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\bin\Debug\net8.0\Nordware.Ecommerce.Infrastructure.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\bin\Debug\net8.0\Nordware.Ecommerce.Domain.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\bin\Debug\net8.0\Nordware.Ecommerce.Domain.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.885BFD63.Up2Date
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\refint\Nordware.Ecommerce.Infrastructure.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\Nordware.Ecommerce.Infrastructure.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Infrastructure\obj\Debug\net8.0\ref\Nordware.Ecommerce.Infrastructure.dll

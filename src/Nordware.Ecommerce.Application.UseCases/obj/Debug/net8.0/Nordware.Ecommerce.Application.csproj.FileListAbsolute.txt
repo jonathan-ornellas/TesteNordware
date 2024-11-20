@@ -1,0 +1,17 @@
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Application.deps.json
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Application.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Application.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Domain.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Infrastructure.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Domain.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\bin\Debug\net8.0\Nordware.Ecommerce.Infrastructure.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.AssemblyInfo.cs
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.FF8C62E3.Up2Date
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\refint\Nordware.Ecommerce.Application.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\Nordware.Ecommerce.Application.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Application.UseCases\obj\Debug\net8.0\ref\Nordware.Ecommerce.Application.dll

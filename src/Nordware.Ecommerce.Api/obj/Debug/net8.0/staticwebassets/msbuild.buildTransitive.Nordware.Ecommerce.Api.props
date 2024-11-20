@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nordware.Ecommerce.Api.props" />
+</Project>

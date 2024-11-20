@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordware.Ecommerce.Api", "Nordware.Ecommerce.Api.csproj", "{C97059C5-20D1-402D-BB13-A03D9B38C27E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{5891F699-A2F7-406B-96E9-5B8236324615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application", "2.Application", "{4751CB35-9AB4-41DC-AC37-AE94B2CD6388}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infrastructure", "4.Infrastructure", "{15F0B613-6B7D-414F-BAA0-E8F101DB04B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{A9773274-B970-4248-B8F6-ED2FA46DD1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordware.Ecommerce.Domain", "..\Nordware.Ecommerce.Domain\Nordware.Ecommerce.Domain.csproj", "{77E657AA-15AE-41AD-82BB-EDF5A62001E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordware.Ecommerce.Application", "..\Nordware.Ecommerce.Application.UseCases\Nordware.Ecommerce.Application.csproj", "{FB02B2C4-7280-4228-AE19-22AC0FA83238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordware.Ecommerce.Infrastructure", "..\Nordware.Ecommerce.Infrastructure\Nordware.Ecommerce.Infrastructure.csproj", "{3866BE87-C4CC-4F47-A0CA-9B60F5F4F1F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C97059C5-20D1-402D-BB13-A03D9B38C27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97059C5-20D1-402D-BB13-A03D9B38C27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97059C5-20D1-402D-BB13-A03D9B38C27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97059C5-20D1-402D-BB13-A03D9B38C27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E657AA-15AE-41AD-82BB-EDF5A62001E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E657AA-15AE-41AD-82BB-EDF5A62001E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E657AA-15AE-41AD-82BB-EDF5A62001E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E657AA-15AE-41AD-82BB-EDF5A62001E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB02B2C4-7280-4228-AE19-22AC0FA83238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB02B2C4-7280-4228-AE19-22AC0FA83238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB02B2C4-7280-4228-AE19-22AC0FA83238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB02B2C4-7280-4228-AE19-22AC0FA83238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3866BE87-C4CC-4F47-A0CA-9B60F5F4F1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3866BE87-C4CC-4F47-A0CA-9B60F5F4F1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3866BE87-C4CC-4F47-A0CA-9B60F5F4F1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3866BE87-C4CC-4F47-A0CA-9B60F5F4F1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C97059C5-20D1-402D-BB13-A03D9B38C27E} = {A9773274-B970-4248-B8F6-ED2FA46DD1C9}
+		{77E657AA-15AE-41AD-82BB-EDF5A62001E6} = {5891F699-A2F7-406B-96E9-5B8236324615}
+		{FB02B2C4-7280-4228-AE19-22AC0FA83238} = {4751CB35-9AB4-41DC-AC37-AE94B2CD6388}
+		{3866BE87-C4CC-4F47-A0CA-9B60F5F4F1F4} = {15F0B613-6B7D-414F-BAA0-E8F101DB04B4}
+	EndGlobalSection
+EndGlobal

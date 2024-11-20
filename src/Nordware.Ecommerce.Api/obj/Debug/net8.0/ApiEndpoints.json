@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Nordware.Ecommerce.Api.Controllers.ReservationsController",
+    "Method": "Get",
+    "RelativePath": "customer/{customerId}/Reservations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Nordware.Ecommerce.Api.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Nordware.Ecommerce.Api.Controllers.ProductsController",
+    "Method": "Reserve",
+    "RelativePath": "Products/{id}/reserve",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

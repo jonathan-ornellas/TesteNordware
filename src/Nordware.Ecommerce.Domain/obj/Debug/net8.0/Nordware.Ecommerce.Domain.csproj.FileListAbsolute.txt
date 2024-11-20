@@ -1,0 +1,11 @@
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\bin\Debug\net8.0\Nordware.Ecommerce.Domain.deps.json
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\bin\Debug\net8.0\Nordware.Ecommerce.Domain.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\bin\Debug\net8.0\Nordware.Ecommerce.Domain.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\Nordware.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\Nordware.Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\Nordware.Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\Nordware.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\Nordware.Ecommerce.Domain.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\refint\Nordware.Ecommerce.Domain.dll
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\Nordware.Ecommerce.Domain.pdb
+C:\Users\jonat\source\repos\TesteNordware\src\Nordware.Ecommerce.Domain\obj\Debug\net8.0\ref\Nordware.Ecommerce.Domain.dll

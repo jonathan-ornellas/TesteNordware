@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8vqgoeyYX228sBMFhnIF3IUVXkxKYrwKNFuegl9RVhQ=",
+  "Source": "Nordware.Ecommerce.Api",
+  "BasePath": "_content/Nordware.Ecommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
