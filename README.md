@@ -61,7 +61,7 @@ Para obter a lista de produtos e seus IDs:
   },
   {
     "id": "b5c44d7e-3h4c-6i2e-9cgd-3h8h1b1h1h1h",
-    "name": "Smart TV LG 55" 4K",
+    "name": "Smart TV LG 55",
     "price": 2999.99,
     "status": "Available"
   }
